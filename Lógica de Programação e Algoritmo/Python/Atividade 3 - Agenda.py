@@ -1,0 +1,11 @@
+nome = input("Digite seu nome: ")
+idade = int(input("Digite a sua idade: "))
+email = input("Digite seu email: ")
+data = input("Digite sua data de nascimento: ")
+telefone = input("Digite seu telefone")
+
+print("Nome: ", nome)
+print("Idade: ", idade)
+print("E_mail: ", email)
+print("Data de nascimento: ", data)
+print("Telefone: ", telefone)
